@@ -2,5 +2,6 @@
 0,HeartTeleport,320,376,,,,,
 0,HeartMode,1,,,,,,
 0,TLPause,,,,,,,
-0.2,BoneVRepeat,128,256,95,0,300,16,150
+1	BoneV	503	286	100	2	300	1
+0.3	BoneV	128	286	100	0	300	1
 8.43333,EndAttack,,,,,,,
